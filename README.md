@@ -1,6 +1,6 @@
 # swaylock-effects
 
-swaylock-effects-second is a fork of [swaylock](https://github.com/swaywm/swaylock)
+swaylock-effects-improved is a fork of [swaylock](https://github.com/swaywm/swaylock)
 which adds built-in screenshots and image manipulation effects like blurring.
 It's inspired by [i3lock-color](https://github.com/PandorasFox/i3lock-color),
 although the feature sets aren't perfectly overlapping.
@@ -12,9 +12,7 @@ based on each other, in order:
 - [mortie/swaylock-effects](https://github.com/mortie/swaylock-effects)
 - [jirutka/swaylock-effects](https://github.com/jirutka/swaylock-effects)
 - [blastrock/swaylock-effects-second](https://github.com/blastrock/swaylock-effects-second)
-
-I added the suffix "-second" so that we don't have 3 projects with the same
-name. If I stop maintaining this, please fork it and take another name.
+- [Xenfo/swaylock-effects-improved](https://github.com/Xenfo/swaylock-effects-improved)
 
 ![Screenshot](https://raw.githubusercontent.com/jirutka/swaylock-effects/master/screenshot.png)
 
@@ -92,17 +90,7 @@ The main new features compared to upstream swaylock are:
 
 ### From Packages
 
-* Alpine Linux: [swaylock-effects](https://pkgs.alpinelinux.org/packages?name=swaylock-effects)
-* Arch Linux (AUR): [swaylock-effects](https://aur.archlinux.org/packages/swaylock-effects/) / [swaylock-effects-git](https://aur.archlinux.org/packages/swaylock-effects-git/)
-
-The original [mortie/swaylock-effects](https://github.com/mortie/swaylock-effects) (now unmaintained)
-has been packaged for:
-
-* Fedora (Copr): [swaylock-effects](https://copr.fedorainfracloud.org/coprs/eddsalkield/swaylock-effects/)
-  (thanks to Edd Salkield)
-* FreeBSD: [swaylock-effects](https://www.freshports.org/x11/swaylock-effects/)
-* Gentoo (GURU overlay): [swaylock-effects](https://gpo.zugaina.org/Overlays/guru/gui-apps/swaylock-effects)
-* T2 SDE: [swaylock-effects](https://t2sde.org/packages/swaylock-effects)
+* Arch Linux (AUR): [swaylock-effects-improved-git](https://aur.archlinux.org/packages/swaylock-effects-improved-git)
 
 ### Compiling from Source
 
