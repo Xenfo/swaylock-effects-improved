@@ -14,8 +14,8 @@ based on each other, in order:
 - [blastrock/swaylock-effects-second](https://github.com/blastrock/swaylock-effects-second)
 - [Xenfo/swaylock-effects-improved](https://github.com/Xenfo/swaylock-effects-improved)
 
-[!NOTE]
-Fading-in is currently broken on this fork.
+> [!NOTE]
+> Fading-in is currently broken on this fork.
 
 ![Screenshot](https://raw.githubusercontent.com/jirutka/swaylock-effects/master/screenshot.png)
 
