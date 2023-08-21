@@ -1241,7 +1241,7 @@ static int parse_options(int argc, char **argv, struct swaylock_state *state,
 				}
 			}
 			break;
-		case 't':
+		case 'T':
 			if (state) {
 				state->args.mode = BACKGROUND_MODE_TILE;
 			}
